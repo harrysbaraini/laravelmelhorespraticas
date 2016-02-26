@@ -2,7 +2,7 @@
 
 _Aviso: A intenção é traduzir o mais fielmente possível todo o conteúdo disponível no site [Laravel : The Right Way](laraveltherightway.github.io). A maior parte dos assets, design e formato deste site é derivada do site original do guia [PHP : The Right Way](http://www.phptherightway.com/). Os [colaboradores originais](https://github.com/codeguy/php-the-right-way/graphs/contributors) possuem todos os direitos que lhes são devidos._
 
-Este site serve como um guia para aqueles que estão utilizando o Laravel Framework, por Taylor Otwell e seus colaboradores. Laravel : O Jeito Certo objetiva colocar conjuntamente todos os recursos e melhores práticas na utilização do Laravel Framework.
+Este site serve como um guia para aqueles que estão utilizando o Laravel Framework, por Taylor Otwell e seus colaboradores. Laravel : Melhores Práticas objetiva colocar conjuntamente todos os recursos e melhores práticas na utilização do Laravel Framework.
 
 O Laravel não é restrito em relação a como e onde você define suas classes desde que possam ser carregadas pelo Composer. Isto é uma faca de dois gumes -- é benéfico para desenvolvedores avançados, porém pode ser confuso para iniciantes e para aqueles que estão tentando realizar engenharia reversa em uma base de código existente. A habilidade para alocar tudo em qualquer lugar é algo bom. Mas há vezes em que alguns métodos são melhores que outros,  
 
@@ -12,7 +12,7 @@ Este é um documento ativo e continuará sendo atualizado com mais informação 
 
 ## Tradução
 
-Laravel: The Right Way está disponível atualmente nos seguintes idiomas. Por favor contribua com o projeto para que o guia suporte mais idiomas (ou aprimore os existentes).
+Laravel: Melhores Práticas está disponível atualmente nos seguintes idiomas. Por favor contribua com o projeto para que o guia suporte mais idiomas (ou aprimore os existentes).
 
 * [Inglês](http://www.laraveltherightway.com)
 * [Português BR](https://github.com/harrysbaraini/laraveltherightway.github.io)
