@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /laravelmelhorespraticas
 highlighter: pygments
 markdown: kramdown
 permalink: date
