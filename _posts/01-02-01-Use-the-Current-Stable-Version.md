@@ -1,15 +1,14 @@
 ---
-title:   Use the Current Stable Version (5.1)
+title:   Utilize a Versão Estável (5.1)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (5.1) {#use_the_current_stable_version_title}
+## Utilize a Versão Estável (5.1) {#use_the_current_stable_version_title}
 
-If you are getting started with Laravel, start with the current stable release of [Laravel 5.1][laravel-release], which is also the first with **Long Term Support** ([LTS](https://laravel.com/docs/5.1/releases#support-policy)). Laravel has added 
-powerful [new features](#framework_highlights) over the last few years. Though the incremental version number difference 
-between 4.0 and 4.2 is small, it represents _major_ improvements. If you are looking for a function or its usage, the 
-documentation on the [laravel.com/docs][laravel-docs] website will have the answer.
+Se você está iniciando com Laravel, inicie com a versão atualmente estável do [Laravel 5.1][laravel-release], que é também a primeira com suporte a longe prazo (**Long Term Support** - [LTS](https://laravel.com/docs/5.1/releases#support-policy)). Laravel adicionou 
+[novas características](#framework_highlights) poderosas durante os últimos anos. Mesmo a diferença de versão incremental entre 4.0 e 4.2 ser pequena, isto representa _grandes_ melhoras.
+Se você está procurando por uma função ou sua utilização, a documentação em [laravel.com/docs][laravel-docs] lhe dará a resposta.
 
 [laravel-release]: https://packagist.org/packages/laravel/laravel
 [laravel-docs]: http://laravel.com/docs

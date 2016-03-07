@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Server Architecture
-description: "production-grade server network design for your Laravel application"
+title: Arquitetura de Servidor
+description: "Design de rede para Servidor de produção para aplicações Laravel"
 sitemap: true
 ---
 

@@ -1,67 +1,69 @@
-# Laravel: The Right Way
+# Laravel: Melhores Práticas
 
-## Overview
+## Visão Geral
 
-This is the GitHub Pages repository for the _Laravel: The Right Way_ project.
+Este é o repositório do Gihub Pages para o projeto _Laravel: Melhores Práticas_.
 
-* This website is a Jekyll project.
-* Each section and sub-section are a Markdown file in `_posts/`.
-* Sub-sections have `isChild: true` in their front matter.
-* The navigation and page structure are automatically generated.
+* Este website é um projeto Jekyll.
+* Cada seção e sub-seção é um arquivo Markdown em `_posts/`.
+* Sub-seções possuem `isChild: true` em suas configurações (front matter).
+* A navegação e estrutura de página são geradas automaticamente.
 
-## Spread the Word!
+## Espalhe a Palavra!
 
-_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP
-developers know where to find good information!
+_Laravel: O Jeito Certo_ possui imagens de banner que você pode utilizar no seu website. Mostre seu suporte, e permita que novos desenvolvedores PHP saibam onde encontrar boa informação!
 
-[See Banner Images](http://www.laraveltherightway.com/banners.html)
+[Ver Imagens de Banner](http://www.laraveltherightway.com/banners.html)
 
-## How to Contribute
+## Como contribuir
 
-1. Fork and edit
-2. Optionally install [Ruby](https://rvm.io/rvm/install/) with [Jekyll](https://github.com/mojombo/jekyll/) gem to preview locally
-3. Submit pull request for consideration
+1. Faça um fork e edite
+2. Instale, se desejar, [Ruby](https://rvm.io/rvm/install/) com [Jekyll](https://github.com/mojombo/jekyll/) para visualizar localmente
+3. Submite um pull request para consideração
 
-### Contributor Style Guide
+### Guia de Estilo Do Colaborador
 
-1. Use American English spelling (*primary English repo only*)
-2. Use four (4) spaces to indent text; do not use tabs.
-3. Wrap all text to 120 characters.
-4. Code samples should adhere to PSR-1 or higher.
+1. Utilize o idioma Português Brasileiro (*Para este repositório apenas*)
+2. Utilize quatro (4) espaços para identar o texto; não utilize tabs.
+3. Encaixe todo o texto dentro de uma linha de 120 caracteres.
+4. Amostras de código devem aderir ao padrão PSR-1 ou superior.
 
-## Where
+## Onde
 
 <http://www.laraveltherightway.com>
 
 * [English](http://www.phptherightway.com)
+* [Português-BR](http://harrysbaraini.github.com/laravelmelhorespraticas)
 
-### Translations
+### Traduções
 
-If you are interested in translating _Laravel: The Right Way_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
+Se você está interessado em traduzie _Laravel: Melhores práticas, faça um fork deste repositório no GitHub e publique seu fork para sua própria página do GitHub Pages. Iremos adicionar um link para sua tradução a partir do documento principal.
 
-To avoid fragmentation and reader confusion, please choose one of these options:
+Para evitar fragmentação e confusão ao leitor, por favor escolha uma das seguintes alternativas:
 
-1. We link to your GitHub Pages fork with `[username].github.io/laraveltherightway`
-2. We link to your GitHub Pages fork with a subdomain (e.g. "ru.laraveltherightway.com")
+1. Iremos inserir um link para seu fork do GitHub Pages com `[nomedousuario].github.io/laraveltherightway`
+2. Iremos inserir um link para seu form do GitHub Pages com subdomínio (e.g. "br.laraveltherightway.com")
 
-If you use a subdomain, enter the subdomain into the `CNAME` file, and ask us to setup DNS for you. If you do not use a subdomain, remove the `CNAME` file entirely else your fork will not build when pushed.
+Se você utiliza um subdomínio, adicione o subdomínio no arquivo `CNAME`, e peça-nos para configurar o DNS para você. Caso contrário, remova o arquivo `CNAME`, caso contrário seu fork não funcionará após ser enviado ao repositório Git.
 
-Add information about your translation in the [wiki page](https://github.com/laraveltherightway/laraveltherightway.gitjub.io/wiki/Translations).
+Adicione informação sobre a tradução na [página wiki](https://github.com/laraveltherightway/laraveltherightway.gitjub.io/wiki/Translations).
 
-When your translation is ready, open an issue on the Issue Tracker to let us know.
 
-## Why
+Quando sua tradução estiver pronta, abra um questão no Issue Tracker para nos informar.
 
-There's been a lot of discussion lately about how the PHP community lacks sufficient, credible information for programmers new to PHP. This repository aims to solve this problem.
+## Porque
 
-## Who
+Há muita discussão sobre como a comunidade PHP não possui informação suficiente e de qualidade para novos programadores. Este repositório busca resolver este problema.
 
-My name is [Darwin Biler](http://twitter.com/buonzz). I'm an open-source enthusiast and aims to provide a help in developers to use Laravel effectively in their applications.
+## Quem
 
-### Collaborators
+O criador do _Laravel: The Right Way_ chama-se [Darwin Biler](http://twitter.com/buonzz).
+
+### Colaboradores
 
 * [Darwin Biler](http://www.darwinbiler.com/)
+* [Harry Sbaraini](http://www.harrysbaraini.com/)
 
-## License
+## Licença
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
